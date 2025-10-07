@@ -1,7 +1,7 @@
 # Llama-Agent-AI
 A web-based AI chatbot designed to answer trading and financial market queries in real-time. Built using FastAPI, Llama 3.2 / Mistral 7B (via Ollama), and a responsive frontend, this project simulates a trading assistant that educates users on swing trading strategies, technical indicators, market analysis, and risk management.
 
-Features
+**Features**
 
 Trading-Focused AI: Provides structured, educational responses about stocks, crypto, forex, and trading strategies.
 
@@ -15,7 +15,7 @@ Markdown Support: Preserves formatting in AI responses (bullet points, bold text
 
 Open-Source & Local: Runs locally using Ollama LLM, ensuring privacy and offline usage.
 
-Tech Stack
+**Tech Stack**
 
 Backend: FastAPI, Pydantic, Requests
 
@@ -25,7 +25,7 @@ Frontend: HTML, CSS, JavaScript (floating chat UI)
 
 Templates & Static Files: Jinja2, custom CSS/JS
 
-How It Works
+**How It Works**
 
 User clicks the floating chat icon to open the chat window.
 
@@ -37,7 +37,7 @@ Responses are displayed in the chat window with proper formatting.
 
 Recent chat history is stored for contextual follow-ups.
 
-Ideal For
+**Ideal For**
 
 Trading enthusiasts and learners
 
